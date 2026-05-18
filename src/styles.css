@@ -406,6 +406,7 @@ svg {
   line-height: 0.95;
   font-weight: 800;
   max-width: 9ch;
+  z-index: 2;
 }
 
 .page-hero h1 {
@@ -420,6 +421,7 @@ svg {
   inset: 0;
   opacity: 0;
   pointer-events: none;
+  z-index: 1;
 }
 
 .hero-name-block.glitch::before,
