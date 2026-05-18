@@ -402,7 +402,7 @@ svg {
   position: relative;
   margin: 14px 0 14px;
   font-family: "Syne", sans-serif;
-  font-size: clamp(58px, 8vw, 100px);
+  font-size: clamp(58px, 8vw, 90px);
   line-height: 0.95;
   font-weight: 800;
   max-width: 9ch;
