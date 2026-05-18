@@ -1,136 +1,88 @@
-# Niviya V U – Portfolio
+# Hi, I'm Niviya
 
-<div align="center">
+A frontend engineer from Chennai building product that matters. I work at Poshmark shipping real UI for real users, and I'm currently finishing my degree at Shiv Nadar University.
 
-**Full-stack engineer · AI builder · product-minded shipper**
+This is my portfolio—a place to see what I've built and how I think about code.
 
-Building software where intelligence meets interface.
-
-[View Live](your-portfolio-url.com) · [GitHub](https://github.com/yourusername) · [LinkedIn](your-linkedin-url) · [Email](mailto:your-email@example.com)
-
-</div>
+**[View Portfolio](your-portfolio-url.com)** · **[GitHub](https://github.com/niviya-v-u)** · **[LinkedIn](https://www.linkedin.com/in/niviya-vu-256479259)** · **[Email](mailto:niviya464@gmail.com)**
 
 ---
 
-## 🚀 About This Project
+## What This Repo Is
 
-This is a modern, interactive portfolio showcasing real workflows and systems built to solve actual problems. Not just demos—production-ready code with thoughtful UX.
+The codebase for my portfolio site. It's meant to reflect how I approach building things: clean code, thoughtful UX, and no unnecessary complexity.
 
-**What makes it different:**
-- ⚡ Built with React + Vite for lightning-fast performance
-- 🎨 Smooth animations and interactive transitions
-- 📱 Fully responsive design
-- 🔍 SEO-optimized
-- ♿ Accessibility-first approach
-
----
-
-## 📦 Tech Stack
-
-| Category | Tech |
-|----------|------|
-| **Frontend** | React 18, React Router |
-| **Build Tool** | Vite |
-| **Styling** | CSS3 (custom) |
-| **State Management** | React Context API |
+### Built With
+- **React 18** – Component architecture
+- **Vite** – Fast, modern build tooling
+- **React Router** – Navigation
+- **CSS3** – Custom styling (no frameworks)
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
-### Prerequisites
-- Node.js 16+ 
-- npm or yarn
-
-### Installation
+If you want to run this locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+# Clone and install
+git clone https://github.com/niviya-v-u/portfolio.git
 cd portfolio
-
-# Install dependencies
 npm install
 
-# Start development server
+# Start the dev server
 npm run dev
 ```
 
-The portfolio will be available at `http://localhost:5173`
+Visit `http://localhost:5173` to see it running.
 
-### Build for Production
-
+### Build for production
 ```bash
 npm run build
 ```
 
 ---
 
-## 📂 Project Structure
+## How It's Organized
 
 ```
-portfolio/
-├── src/
-│   ├── components/          # Reusable React components
-│   ├── pages/               # Page components
-│   ├── App.jsx              # Main app component
-│   ├── main.jsx             # Entry point
-│   ├── data.js              # Portfolio data & content
-│   └── styles.css           # Global styles
-├── public/                  # Static assets
-├── vite.config.js           # Vite configuration
-└── index.html               # HTML template
+src/
+├── components/    # Reusable UI pieces
+├── pages/         # Full page components
+├── data.js        # Content and configuration
+├── styles.css     # Global styles
+└── main.jsx       # Entry point
 ```
 
----
-
-## ✨ Features
-
-- **Dynamic Project Showcase** – Featured work with detailed project cards
-- **Smooth Scroll Animations** – Data-reveal animations for engaging UX
-- **Social Integration** – Quick links to GitHub, LinkedIn, and email
-- **Signal Deck** – Real-time stats and indicators
-- **Responsive Navigation** – Works seamlessly across all devices
-- **Glitch Effect** – Interactive name animation on hover
+The portfolio data lives in `data.js`—makes it easy to update without touching components.
 
 ---
 
-## 📄 Pages
+## What You'll Find
 
-- **Home** – Landing page with featured projects and key signals
-- **Projects** – Complete project archive with filters
-- **Work** – Detailed case studies and experience
-- **About** – Background and expertise
-- **Contact** – Get in touch
-
----
-
-## 🔗 Links
-
-- **Portfolio**: [your-portfolio-url.com](your-portfolio-url.com)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [/in/yourusername](your-linkedin-url)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Home** – Overview and featured work
+- **About** – Background and how I think about code
+- **Work** – What I'm shipping at Poshmark and lessons learned
+- **Projects** – Side projects and experiments
+- **Contact** – Ways to reach me
 
 ---
 
-## 📋 What I'm Building Toward
+## About Me
 
-- Shipping product that matters
-- Building intelligent systems with modern tooling
-- Creating experiences that work for real users
-- Bridging the gap between design and engineering
+I'm interested in:
+- Building UI that scales and performs
+- Systems that work for real constraints, not ideals
+- Python, JavaScript, React, and practical tools
+- Using technology to solve actual problems (not just for the novelty)
+- Learning in public and helping others do the same
 
----
-
-## 📝 License
-
-This project is open source and available under the MIT License.
+When I'm not coding, I'm probably reading about product design, learning something new, or exploring Chennai.
 
 ---
 
-<div align="center">
+## Let's Connect
 
-**Built with code and curiosity** | Updated May 2026
-
-</div>
+- **GitHub**: [@niviya-v-u](https://github.com/niviya-v-u)
+- **LinkedIn**: [in/niviya-vu](https://www.linkedin.com/in/niviya-vu-256479259)
+- **Email**: [niviya464@gmail.com](mailto:niviya464@gmail.com)
