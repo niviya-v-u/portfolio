@@ -25,7 +25,7 @@ export function HomePage() {
           <span className="page-eyebrow" data-reveal>
             Near-future builder log / Chennai → Everywhere
           </span>
-          <h1 className={`hero-name-block${glitchActive ? " glitch" : ""}`} data-text="NIVIYA V U" data-reveal>
+          <h1 className={`hero-name-block${glitchActive ? " glitch" : ""}`} data-text="NIVIYA V U">
             NIVIYA V U
           </h1>
           <p className="hero-roleline" data-reveal>

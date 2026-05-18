@@ -407,6 +407,8 @@ svg {
   font-weight: 800;
   max-width: 9ch;
   z-index: 2;
+  opacity: 1 !important;
+  transform: none !important;
 }
 
 .page-hero h1 {
