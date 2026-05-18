@@ -4,7 +4,7 @@ A frontend engineer from Chennai building product that matters. I work at Poshma
 
 This is my portfolio—a place to see what I've built and how I think about code.
 
-**[View Portfolio](your-portfolio-url.com)** · **[GitHub](https://github.com/niviya-v-u)** · **[LinkedIn](https://www.linkedin.com/in/niviya-vu-256479259)** · **[Email](mailto:niviya464@gmail.com)**
+**[View Portfolio](https://niviya-v-u.github.io/portfolio/)** · **[GitHub](https://github.com/niviya-v-u)** · **[LinkedIn](https://www.linkedin.com/in/niviya-vu-256479259)** · **[Email](mailto:niviya464@gmail.com)**
 
 ---
 
